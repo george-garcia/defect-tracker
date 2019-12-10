@@ -1,0 +1,32 @@
+{
+  "defects": [
+    {
+      "id": "1",
+      "project":  "Defect Tracker",
+      "bugId": "DEF-1",
+      "created": "12/8/2019 ",
+      "createdBy": "George Garcia",
+      "type": "Feature",
+      "priority": "Major",
+      "state": "Submitted",
+      "assigned": "George Garcia",
+      "title": "Start working on the project!",
+      "description": "This is the first ticket to get it all started. I better get to work!",
+      "version": "1.0.0"
+    },
+    {
+      "id": "2",
+      "project":  "Defect Tracker",
+      "bugId": "DEF-2",
+      "created": "12/8/2019 ",
+      "createdBy": "George Garcia",
+      "type": "Feature",
+      "priority": "Major",
+      "state": "Submitted",
+      "assigned": "George Garcia",
+      "title": "Display defects on DefectsShow",
+      "description": "Render a list of all current defects on the DefectsShow page",
+      "version": "1.0.0"
+    }
+  ]
+}
