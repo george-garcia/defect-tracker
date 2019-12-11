@@ -8,7 +8,7 @@
       "createdBy": "George Garcia",
       "type": "Feature",
       "priority": "Major",
-      "state": "Submitted",
+      "state": "Completed",
       "assigned": "George Garcia",
       "title": "Start working on the project!",
       "description": "This is the first ticket to get it all started. I better get to work!",
@@ -22,10 +22,24 @@
       "createdBy": "George Garcia",
       "type": "Feature",
       "priority": "Major",
-      "state": "Submitted",
+      "state": "Completed",
       "assigned": "George Garcia",
       "title": "Display defects on DefectsShow",
       "description": "Render a list of all current defects on the DefectsShow page",
+      "version": "1.0.0"
+    },
+    {
+      "id": "3",
+      "project":  "Defect Tracker",
+      "bugId": "DEF-3",
+      "created": "12/10/2019 ",
+      "createdBy": "George Garcia",
+      "type": "Feature",
+      "priority": "Major",
+      "state": "Assigned",
+      "assigned": "George Garcia",
+      "title": "Make the header and sidebar presentable",
+      "description": "Format the search bar in the header and clean it up a little bit. Maybe add a logo so it doesn't look so empty.",
       "version": "1.0.0"
     }
   ]

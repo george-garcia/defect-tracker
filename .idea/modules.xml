@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/defect-tracker.iml" filepath="$PROJECT_DIR$/.idea/defect-tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eutours/.idea/eutours.iml" filepath="$PROJECT_DIR$/../eutours/.idea/eutours.iml" />
       <module fileurl="file://$PROJECT_DIR$/../streamy/.idea/streamy.iml" filepath="$PROJECT_DIR$/../streamy/.idea/streamy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trillo/.idea/trillo.iml" filepath="$PROJECT_DIR$/../trillo/.idea/trillo.iml" />
     </modules>
   </component>
 </project>
