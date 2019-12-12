@@ -2,7 +2,7 @@
   "defects": [
     {
       "id": "1",
-      "project":  "Defect Tracker",
+      "project": "Defect Tracker",
       "bugId": "DEF-1",
       "created": "12/8/2019 ",
       "createdBy": "George Garcia",
@@ -16,7 +16,7 @@
     },
     {
       "id": "2",
-      "project":  "Defect Tracker",
+      "project": "Defect Tracker",
       "bugId": "DEF-2",
       "created": "12/8/2019 ",
       "createdBy": "George Garcia",
@@ -30,7 +30,7 @@
     },
     {
       "id": "3",
-      "project":  "Defect Tracker",
+      "project": "Defect Tracker",
       "bugId": "DEF-3",
       "created": "12/10/2019 ",
       "createdBy": "George Garcia",
@@ -41,6 +41,65 @@
       "title": "Make the header and sidebar presentable",
       "description": "Format the search bar in the header and clean it up a little bit. Maybe add a logo so it doesn't look so empty.",
       "version": "1.0.0"
+    },
+    {
+      "id": "4",
+      "project": "Defect Tracker",
+      "bugId": "DEF-4",
+      "created": "12/11/2019 ",
+      "createdBy": "George Garcia",
+      "type": "Feature",
+      "priority": "Major",
+      "state": "Completed",
+      "assigned": "George Garcia",
+      "title": "Actions, Reducers, and Postman",
+      "description": "Finish up some basic actions and reducers and create a ticket using Postman",
+      "version": "1.0.0"
+    },
+    {
+      "id": "5",
+      "project": "Defect Tracker",
+      "bugId": "DEF-5",
+      "created": "12/11/2019 ",
+      "createdBy": "George Garcia",
+      "type": "Feature",
+      "priority": "Major",
+      "state": "Assigned",
+      "assigned": "George Garcia",
+      "title": "Create a defect page isn't working",
+      "description": "I will now begin formatting tickets as actual issues that need to be fixed. New Defect page is blank. There is currently no way to create a defect using the page. Input forms need to be created. They need to be connected to the redux store using redux forms. The page needs some basic HTML and CSS to look presentable. Creating tickets using this page should should be functional before this ticket is completed.",
+      "version": "1.0.0"
+    },
+    {
+      "project": "test",
+      "version": "1",
+      "type": "not important",
+      "created": "9/9/9",
+      "createdBy": "me",
+      "title": "test bug",
+      "description": "test description",
+      "id": "CTSIhOF"
+    },
+    {
+      "project": "test",
+      "type": "not important",
+      "created": "9/9/9",
+      "createdBy": "me",
+      "title": "test bug",
+      "description": "test description",
+      "version": "2",
+      "id": "_o3Caqj"
+    },
+    {
+      "project": "asdf",
+      "version": "asdf",
+      "type": "asdf",
+      "created": "asdf",
+      "createdBy": "asdf",
+      "title": "asdf",
+      "description": "asdf",
+      "LALA": "HAHA",
+      "id": "u_rCA-p"
     }
   ]
 }
