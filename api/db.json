@@ -71,73 +71,30 @@
       "version": "1.0.0"
     },
     {
-      "project": "test",
-      "version": "1",
-      "type": "not important",
-      "created": "9/9/9",
-      "createdBy": "me",
-      "title": "test bug",
-      "description": "test description",
-      "id": "CTSIhOF"
+      "state": "Resolved",
+      "assigned": "George Garcia",
+      "project": "Defect Tracker",
+      "version": "1.0.0",
+      "type": "Bug",
+      "priority": "Critical",
+      "title": "Can't create bugs using the bug tracker",
+      "description": "This is my first bug submitted using the tracker itself. If this works successfully I will use the edit form to edit the issue into a resolved state.",
+      "id": 6,
+      "bugId": "DEF-6",
+      "created": "Sat Dec 14 2019"
     },
     {
-      "project": "test",
-      "type": "not important",
-      "created": "9/9/9",
-      "createdBy": "me",
-      "title": "test bug",
-      "description": "test description",
-      "version": "2",
-      "id": "_o3Caqj"
-    },
-    {
-      "project": "asdf",
-      "version": "asdf",
-      "type": "asdf",
-      "created": "asdf",
-      "createdBy": "asdf",
-      "title": "asdf",
-      "description": "asdf",
-      "LALA": "HAHA",
-      "id": "u_rCA-p"
-    },
-    {
-      "version": "2",
-      "type": "2",
-      "created": "2",
-      "createdBy": "2",
-      "title": "2",
-      "description": "2",
-      "id": "lLMsQ3h"
-    },
-    {
-      "version": "3",
-      "type": "3",
-      "created": "3",
-      "createdBy": "3",
-      "title": "3",
-      "description": "3",
-      "id": "pP6W9CR"
-    },
-    {
-      "project": "#ff0000",
-      "version": "4",
-      "type": "4",
-      "created": "4",
-      "createdBy": "4",
-      "title": "4",
-      "description": "4",
-      "id": "WwQW7Ol"
-    },
-    {
-      "project": "#Defect Tracker",
-      "version": "5",
-      "type": "5",
-      "created": "5",
-      "createdBy": "5",
-      "title": "5",
-      "description": "5",
-      "id": "qteaZh2"
+      "project": "Defect Tracker",
+      "priority": "Major",
+      "type": "Feature",
+      "version": "1.0.0",
+      "state": "Assigned",
+      "assigned": "George Garcia",
+      "title": "The bug tracker needs authentication",
+      "description": "Add authentication to the defect tracker. This will extend to Administrators, devs, users, and finally guests all having different log ins, data that is stored, screens displayed, and permissions.",
+      "id": 7,
+      "bugId": "DEF-7",
+      "created": "Sat Dec 14 2019"
     }
   ]
 }
